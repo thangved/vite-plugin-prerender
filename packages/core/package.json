@@ -37,10 +37,10 @@
   },
   "homepage": "https://github.com/Rudeus3Greyrat/vite-plugin-prerender/tree/master/#readme",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "debug": "^4.3.3",
     "@prerenderer/prerenderer": "^0.7.2",
     "@prerenderer/renderer-puppeteer": "^0.2.0",
+    "chalk": "^4.1.2",
+    "debug": "^4.3.3",
     "html-minifier": "^3.5.16",
     "mkdirp": "^1.0.4"
   },

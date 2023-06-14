@@ -13,7 +13,8 @@
     "lint:eslint": "eslint \"packages/**/*.{ts,tsx}\" --fix",
     "prepare": "husky install",
     "preinstall": "npx only-allow pnpm",
-    "test": "vitest"
+    "test": "vitest",
+    "prepack": "prepack"
   },
   "repository": {
     "type": "git",
